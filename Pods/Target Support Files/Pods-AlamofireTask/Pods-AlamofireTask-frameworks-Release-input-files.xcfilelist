@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-AlamofireTask/Pods-AlamofireTask-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/LBTATools/LBTATools.framework
+${BUILT_PRODUCTS_DIR}/SwiftMessages/SwiftMessages.framework
+${BUILT_PRODUCTS_DIR}/moa/moa.framework

@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.6.0)
+  - LBTATools (1.0.12)
+  - moa (12.0.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - LBTATools
+  - moa
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - LBTATools
+    - moa
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 0c07058209f211e3d32824f8e0766d7c44ac83b3
+  LBTATools: 389a901a01b9a56bea5682c40cd6e23530f40015
+  moa: e2346f12de6c65bbca4d103950d45db9e46785ef
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: dbdcab128fe7ca65a77db38892c1066fa77b993e
+
+COCOAPODS: 1.11.3
